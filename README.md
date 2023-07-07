@@ -2,8 +2,8 @@
 # A Predictive Analysis of Diabetes in the United States Based on Data Mining Classification Methods
 ## Installation Directions 
 Download the project code from this GitHub repository and run cells. This can be accomplished by cloning the repository onto your device using the commands below: 
-    * git init
-    * git clone https://github.com/edwardam5/504_FinalProject.git 
+* git init
+* git clone https://github.com/edwardam5/504_FinalProject.git 
 ## Contributors
 Michael Nguyen, Oscar Gil, and Anusia Edward
 ## Methods  
@@ -35,3 +35,5 @@ World Health Organization. (2021, November 10). Diabetes.https://www.who.int/new
 Goyal, C. (2021, June 9). 20 Questions to Test your Skills on KNN Algorithm.https://www.analyticsvidhya.com/blog/2021/05/20-questions-to-test-yourskills-on-k-nearest-neighbour/
 
 Sharma, A. (2021). Naive Bayes with Hyperpameter Tuning. https://www.kaggle.com/code/akshaysharma001/naive-bayes-with-hyperpameter-tuning
+## Link to Video Presentation
+Link: https://youtu.be/FhDp0t62MkM 
